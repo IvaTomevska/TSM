@@ -1,1 +1,1 @@
-# Traveling Saleseman Problem with MPI
+# Traveling Saleseman Problem with OpenMP
